@@ -1,7 +1,26 @@
-### <ins>Profile</ins>
+## Profile
 
 :wave:Hi there! 
 I'm software engineer in Japan.
+- Major :
+  - Inforamtion engineering
+- Available programming languages
+  - Backend
+    - Java
+      - Spring Boot
+    - C/C++
+    - Python
+      - Fast API
+      - Flask
+    - Go
+      - Gin
+  - Frontend
+    - Typescript
+      - React
+    - Javascript
+      - jQuery
+    - HTML/CSS
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <div align="left">
