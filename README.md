@@ -4,7 +4,7 @@
 I'm software engineer in Japan.
 - Major :
   - Inforamtion engineering
-- Available programming languages
+- Available programming languages (Library, Framework)
   - Backend
     - Java
       - Spring Boot
