@@ -1,7 +1,8 @@
 ## Profile
 
-:wave:Hi there! 
-I'm software engineer in Japan.
+:wave:Hi there!<br>
+I'm a university student in Kyoto, Japan.<br>
+I aspire to be a software engineer.
 - Major :
   - Inforamtion engineering
 - Available programming languages (Library, Framework)
