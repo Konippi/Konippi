@@ -4,7 +4,7 @@
 I'm a university student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
 - Major :
-  - Inforamtion engineering
+  - Software engineering
 - Available programming languages (Library, Framework)
   - Backend
     - Java
