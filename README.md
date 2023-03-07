@@ -1,5 +1,3 @@
-## Profile
-
 :wave:Hi there!<br>
 I'm a university student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
