@@ -2,8 +2,13 @@
 I'm a university student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
 - Major :
-  - Software Engineering and Computer Science
-- Available programming languages (Library, Framework)
+  - Computer Science
+- Relevant Coursework
+  - Software Engineering
+  - Operation Systems
+  - OOP(Object-Oriented Programming)
+  - Machine Learning
+- Skills
   - Backend
     - Java
       - Spring Boot
@@ -19,6 +24,10 @@ I aspire to be a software engineer.
     - Javascript
       - jQuery
     - HTML/CSS
+  - Others
+    - Git
+    - Docker
+    - AWS
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
