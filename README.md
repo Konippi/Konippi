@@ -1,8 +1,6 @@
 :wave:Hi there!<br>
 I'm a university student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
-- Major :
-  - Computer Science
 - Relevant Coursework
   - Software Engineering
   - Operation Systems
