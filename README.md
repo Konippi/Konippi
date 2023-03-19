@@ -1,6 +1,7 @@
 :wave:Hi there!<br>
 I'm a university student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
+I have experience in the following technologies.
 - Relevant Coursework
   - Software Engineering
   - Operation Systems
@@ -26,6 +27,7 @@ I aspire to be a software engineer.
     - Git
     - Docker
     - AWS
+
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
