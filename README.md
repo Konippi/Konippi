@@ -7,7 +7,7 @@ I have experience in the following technologies.
   - Operation Systems
   - OOP(Object-Oriented Programming)
   - System Controll Engineering
-- Skills
+- Experience
   - Backend
     - Java
       - Spring Boot
@@ -22,6 +22,7 @@ I have experience in the following technologies.
       - React
     - Javascript
       - jQuery
+      - Vue
     - HTML/CSS
   - Others
     - Git
