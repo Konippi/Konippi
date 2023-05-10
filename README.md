@@ -1,5 +1,5 @@
 :wave:Hi there!<br>
-I'm a university student in Kyoto, Japan.<br>
+I'm a 1st year master's student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
 I have experience in the following technologies.
 - Relevant Coursework
