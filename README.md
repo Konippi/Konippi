@@ -6,7 +6,7 @@ I have experience in the following technologies.
   - Software Engineering
   - Operation Systems
   - OOP(Object-Oriented Programming)
-  - System Controll Engineering
+  - Machine Learning
 - Experience
   - Backend
     - Java
