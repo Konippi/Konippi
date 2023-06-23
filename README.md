@@ -33,6 +33,5 @@ I have experience in the following technologies.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Konippi&count_private=true&theme=noctis_minimus" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konippi&layout=compact&theme=noctis_minimus" />
 </div>
