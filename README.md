@@ -1,15 +1,16 @@
 ## :trophy: My Stats
 <div>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konippi&theme=onedark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konippi&layout=compact&theme=onedark" />
+</div>
+
+--- 
+
+<div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=Konippi&column=8&theme=gruvbox&no-frame=true"/>
   </a>
 </div>
-<div>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konippi&theme=zenburn" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konippi&layout=compact&theme=zenburn" />
-</div>
-
---- 
 
 ## About Me
 :wave:Hi there!<br>
