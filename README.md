@@ -1,7 +1,7 @@
 ## :trophy: My Stats
 <div>
   <img align="left" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konippi&theme=onedark" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konippi&layout=compact&theme=onedark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konippi&layout=compact&theme=gruvbox" />
 </div>
 
 --- 
