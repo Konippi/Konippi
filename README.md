@@ -12,14 +12,13 @@
   </a>
 </div>
 
-## About Me
-:wave:Hi there!<br>
+## :raising_hand_man: About Me
+:wave: Hi there!<br>
 I'm a 1st year master's student in Kyoto, Japan.<br>
 I aspire to be a software engineer.
 I have experience in the following technologies.
 - Relevant Coursework
   - Software Engineering
-  - Operation Systems
   - OOP(Object-Oriented Programming)
   - Machine Learning
 - Experience
