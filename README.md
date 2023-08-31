@@ -1,3 +1,12 @@
+<link rel="stylesheet" href="./node_modules/github-markdown-css/github-markdown.css">
+
+<!-- Style -->
+<style>
+  .tech-icon {
+    margin-right: 8px;
+  }
+</style>
+
 <!-- Body -->
 <div align="left">
   <a href="https://github.com/Konippi">
@@ -153,10 +162,3 @@ I have experience in the following technologies.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </div>
-
-<!-- Style -->
-<style>
-  .tech-icon {
-    margin-right: 8px;
-  }
-</style>
