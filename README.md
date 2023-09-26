@@ -17,13 +17,13 @@
   </a>
 </div>
 
---- 
+<!-- --- 
 
 <div>
   <a href="https://github.com/Konippi">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=Konippi&column=8&theme=gruvbox" alt="Konippi" />
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=Konippi&theme=onedark" alt="Konippi" />
   </a>
-</div>
+</div> -->
 
 ## :raising_hand_man: About Me
 :wave: Hi there!<br>
@@ -154,4 +154,7 @@ I have experience in the following technologies.
 </div>
 
 ## :memo: Articles
-- https://qiita.com/Konippi/items/aade81f1f27579ee3b01
+- Qiita
+  - https://qiita.com/Konippi/items/aade81f1f27579ee3b01
+- Note
+  - https://note.com/konippi/n/n211afca92444
