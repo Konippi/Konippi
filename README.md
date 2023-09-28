@@ -17,13 +17,13 @@
   </a>
 </div>
 
-<!-- --- 
+--- 
 
 <div>
   <a href="https://github.com/Konippi">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=Konippi&theme=onedark" alt="Konippi" />
   </a>
-</div> -->
+</div>
 
 ## :raising_hand_man: About Me
 :wave: Hi there!<br>
