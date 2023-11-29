@@ -31,13 +31,6 @@
 :telescope: I aspire to be a software engineer.<br>
 :man_technologist: I have experience in the following technologies.
 
-### Relevant Coursework
-- Software Engineering
-- OOP(Object-Oriented Programming)
-- User Interface Design
-- Machine Learning
-
-
 ### Development (Backend)
 <div align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -153,6 +146,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </div>
+
+## :trophy: OSS Contribution
+- :tada: [vitejs/vite](https://github.com/vitejs/vite)
 
 ## :memo: Articles
 - Qiita
