@@ -155,3 +155,5 @@
   - https://qiita.com/Konippi/items/aade81f1f27579ee3b01
 - Note
   - https://note.com/konippi/n/n211afca92444
+- Internships
+  - https://developers.cyberagent.co.jp/blog/archives/47436/
