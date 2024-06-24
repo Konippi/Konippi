@@ -27,7 +27,7 @@
 
 ## :raising_hand_man: About Me
 :wave: Hi there!<br>
-:seedling: I'm a 1st year master's student in Kyoto, Japan.<br>
+:seedling: I'm a 2nd year master's student in Kyoto, Japan.<br>
 :telescope: I aspire to be a software engineer.<br>
 :man_technologist: I have experience in the following technologies.
 
