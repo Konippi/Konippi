@@ -27,7 +27,7 @@
 
 ## :raising_hand_man: About Me
 :wave: Hi there!<br>
-:seedling: I'm a 1st year master's student in Kyoto, Japan.<br>
+:seedling: I'm a 2nd year master's student in Kyoto, Japan.<br>
 :telescope: I aspire to be a software engineer.<br>
 :man_technologist: I have experience in the following technologies.
 
@@ -156,3 +156,5 @@
   - https://qiita.com/Konippi/items/aade81f1f27579ee3b01
 - Note
   - https://note.com/konippi/n/n211afca92444
+- Internships
+  - https://developers.cyberagent.co.jp/blog/archives/47436/
