@@ -149,6 +149,7 @@
 
 ## :trophy: OSS Contribution
 - :tada: [vitejs/vite](https://github.com/vitejs/vite)
+- :tada: [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws)
 
 ## :memo: Articles
 - Qiita
