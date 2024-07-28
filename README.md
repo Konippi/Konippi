@@ -150,6 +150,7 @@
 ## :trophy: OSS Contribution
 - :tada: [vitejs/vite](https://github.com/vitejs/vite)
 - :tada: [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws)
+- :tada: [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash)
 
 ## :memo: Articles
 - Qiita
