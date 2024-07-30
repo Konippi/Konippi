@@ -7,7 +7,14 @@
   </a>
 </div>
 
-## :trophy: My Stats
+## :raising_hand_man: About Me
+:wave: Hi there!<br>
+:seedling: I'm a 2nd year master's student in Kyoto, Japan.<br>
+:man_technologist: I have experience in the following languages and flameworks/libraries.
+
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,python,react,nextjs,vue,nuxtjs,astro,electron,dart,flutter,aws,terraform,mysql,postgres,mongo,sqlite&theme=light&perline=10)](https://github.com/Konippi)
+
+## :dizzy: My Stats
 <div align="left">
   <a href="https://github.com/Konippi">
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konippi&theme=onedark" alt="Konippi" />
@@ -17,14 +24,7 @@
   </a>
 </div>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Konippi&theme=onedark&margin-w=5)](https://github.com/Konippi)
-
-## :raising_hand_man: About Me
-:wave: Hi there!<br>
-:seedling: I'm a 2nd year master's student in Kyoto, Japan.<br>
-:man_technologist: I have experience in the following languages and flameworks/libraries.
-
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,python,react,nextjs,vue,nuxtjs,astro,electron,dart,flutter,aws,terraform,mysql,postgres,mongo,sqlite&theme=light&perline=10)](https://github.com/Konippi)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Konippi&theme=onedark&margin-w=5&row=1)](https://github.com/Konippi)
 
 ## :trophy: OSS Contribution
 
