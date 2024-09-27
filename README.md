@@ -31,6 +31,7 @@
 - :tada: [vitejs/vite](https://github.com/vitejs/vite)
 - :tada: [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws)
 - :tada: [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash)
+- :tada: [rust-lang/rust](https://github.com/rust-lang/rust)
 
 ## :memo: Articles
 
