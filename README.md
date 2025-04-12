@@ -32,9 +32,3 @@
 - :tada: [rust-lang/rust](https://github.com/rust-lang/rust)
 - :tada: [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws)
 - :tada: [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)
-
-## :memo: Articles
-
-- :page_facing_up: https://qiita.com/Konippi/items/aade81f1f27579ee3b01
-- :page_facing_up: https://note.com/konippi/n/n211afca92444
-- :page_facing_up: https://developers.cyberagent.co.jp/blog/archives/47436/
