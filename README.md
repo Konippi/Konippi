@@ -8,7 +8,7 @@
 </div>
 
 ## :raising_hand_man: About Me
-:wave: Hi there!<br>
+:wave: Hi there! Please call me `Konippi`.<br>
 :man_technologist: I have experience in the following languages and flameworks/libraries.
 
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,python,react,nextjs,vue,nuxtjs,astro,electron,dart,flutter,aws,terraform,mysql,postgres,mongo,sqlite&theme=light&perline=10)](https://github.com/Konippi)
@@ -24,11 +24,3 @@
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Konippi&theme=onedark&margin-w=5&row=1)](https://github.com/Konippi)
-
-## :trophy: OSS Contribution
-
-- :tada: [vitejs/vite](https://github.com/vitejs/vite)
-- :tada: [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash)
-- :tada: [rust-lang/rust](https://github.com/rust-lang/rust)
-- :tada: [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws)
-- :tada: [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli)
